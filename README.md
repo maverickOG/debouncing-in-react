@@ -49,6 +49,10 @@ npm run dev
 
 5. Enter a keyword in the search input field to search for movies.
 
+## Live Demo
+
+You can also view the live demo of the app at: [Mofie](https://mofie-kappa.vercel.app/)
+
 ## Technologies Used
 
 - React
