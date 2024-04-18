@@ -2,6 +2,8 @@
 
 This is a simple React application called "Mofie" that allows users to search for movies using the OMDb API. The app fetches and displays movie titles, release years, and posters based on the user's search query.
 
+It is a live session conducted by our mentor, Rutuj.
+
 ## Features
 
 - Search for movies by entering a keyword in the input field
